@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kamil'
-- 👀 I’m interested in development frontend apps
-- 🌱 I’m currently learning college 
-- 📫 How to reach me: kqwe06311@gmail.com - gmail // discord - кто#8645
+ Hi, I’m Kamil'
+ I’m interested in development frontend apps
+ I’m currently learning college 
+ How to reach me: kqwe06311@gmail.com - gmail // discord - кто#8645
 
 
 
