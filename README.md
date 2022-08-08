@@ -1,4 +1,4 @@
- kqwe06311@gmail.com - gmail // discord - кто#8645
+ kqwe06311@gmail.com - gmail 
 
 
 
