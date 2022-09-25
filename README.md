@@ -44,7 +44,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"title="VS Code" alt="HIGH" width="50" height="50"/>&nbsp;
 </div>
-### Arch/Kali Linux
+Arch/Kali Linux
     
 __________________________________________
 
