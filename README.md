@@ -3,6 +3,7 @@
 </div>
 
 
+### :woman_technologist: About Me :
 ### Contact me:
 
  kqwe06311@gmail.com - gmail.com 
