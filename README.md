@@ -4,6 +4,8 @@
 
 
 ### :woman_technologist: About Me :
+## Kamil'
+
 :brain: 17 y.o
 
 :earth_asia: Russia, Saratov
@@ -26,17 +28,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="AWS" width="50" height="50"/>&nbsp;
 </div>
 
+
+
 ### :computer: Development environment:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" alt="NodeJS" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"title="VS Code" alt="NodeJS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg"title="Microsoft Studio" alt="NodeJS" width="70" height="70"/>&nbsp;
 </div>
 
-### Contact me:
-
- kqwe06311@gmail.com - gmail.com 
+__________________________________________
 
 
+### :open_book: Contact me:
+
+ kqwe06311@gmail.com | email
+ 
+ Δf= u(x + Δx) * υ(x + Δx) - u(x)#4463 | discord
+ 
 
 
 
