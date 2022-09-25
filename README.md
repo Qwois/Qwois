@@ -2,10 +2,3 @@
 
 
 
-
-#include <yazaebalsya.h>
-
-int main() {
-  std:: <<"Daite mne sdohnut" << std.endl;
-  return 0;
-}
