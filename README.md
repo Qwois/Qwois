@@ -27,7 +27,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="AWS" width="50" height="50"/>   
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="AWS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="AWS" width="50" height="50"/>&nbsp;
-  <img src="" title="Flask" alt="AWS" width="50" height="50"/>&nbsp;
 </div>
 
 
