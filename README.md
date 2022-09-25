@@ -32,13 +32,20 @@
 
 
 
-### :computer: Development environment:
+### 🧑‍🚀 Development environment:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="Pycharm" alt="NodeJS" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"title="VS Code" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg"title="Microsoft Studio" alt="NodeJS" width="70" height="70"/>&nbsp;
 </div>
 
+
+### :computer: My base:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"title="VS Code" alt="HIGH" width="50" height="50"/>&nbsp;
+</div>
+### Arch/Kali Linux
+    
 __________________________________________
 
 
